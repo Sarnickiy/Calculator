@@ -1,0 +1,6 @@
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\Калькулятор_Str\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\Калькулятор_Str\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\Калькулятор_Str\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\Калькулятор_Str\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\Калькулятор_Str\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\Калькулятор_Str\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache

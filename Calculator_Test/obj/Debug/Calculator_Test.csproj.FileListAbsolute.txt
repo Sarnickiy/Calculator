@@ -1,0 +1,9 @@
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\Калькулятор_Str\Calculator\Calculator_Test\bin\Debug\Calculator_Test.dll
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\Калькулятор_Str\Calculator\Calculator_Test\bin\Debug\Calculator_Test.pdb
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\Калькулятор_Str\Calculator\Calculator_Test\bin\Debug\Calculator.exe
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\Калькулятор_Str\Calculator\Calculator_Test\bin\Debug\nunit.framework.dll
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\Калькулятор_Str\Calculator\Calculator_Test\bin\Debug\Calculator.pdb
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\Калькулятор_Str\Calculator\Calculator_Test\bin\Debug\nunit.framework.xml
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\Калькулятор_Str\Calculator\Calculator_Test\obj\Debug\Calculator_Test.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\Калькулятор_Str\Calculator\Calculator_Test\obj\Debug\Calculator_Test.dll
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\Калькулятор_Str\Calculator\Calculator_Test\obj\Debug\Calculator_Test.pdb
